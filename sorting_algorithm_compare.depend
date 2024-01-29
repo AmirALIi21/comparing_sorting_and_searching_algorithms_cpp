@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1705861858 source:c:\users\admin\desktop\pc mabani\c++\sorting_algorithm_compare\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<random>
+	<chrono>
+	<algorithm>
+	<list>
+
